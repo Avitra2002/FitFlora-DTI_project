@@ -1,7 +1,8 @@
 # FitFlora-DTI_project
 SUTD Term 2 Design Thinking Project
 
-[Link to our website]([url](http://asd.courses.sutd.edu.sg/dti-teams/projects-2023-cohort-7-projects-2023-cohort-7-team-2-part-4-8/)http://asd.courses.sutd.edu.sg/dti-teams/projects-2023-cohort-7-projects-2023-cohort-7-team-2-part-4-8/)
+[Link to our website](http://asd.courses.sutd.edu.sg/dti-teams/projects-2023-cohort-7-projects-2023-cohort-7-team-2-part-4-8/)
+
 
 ### Group Members
 
